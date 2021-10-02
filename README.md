@@ -30,6 +30,7 @@
 <a href="https://github.com/omerfaruk-sahin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerfaruk-sahin&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruk-sahin&theme=buefy&layout=compact" />
+
 </a>
 
 <br/>
@@ -39,4 +40,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/%C3%B6merfaruk%C5%9Fahin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ömer%20Faruk%20Şahin-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:omer.fs@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omer.fs@hotmail.com-blue?style=flat-square&logo=hotmail"></a>
+  <a href="https://www.hackerrank.com/omer_fs"><img alt="HackerRank" src="https://img.shields.io/badge/LinkedIn-Ömer%20Faruk%20Şahin-blue?style=flat-square&logo=HackerRank"></a>
 </p>
