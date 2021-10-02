@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omerfaruk-sahin
-- 🎓 I graduated from Ataturk University, electrical and electronics engineering.
+- 🎓 I graduated from Ataturk University, Electrical and Electronics Engineering.
 - 🌱 I’m currently learning React js and Node js
 - 👀 I’m interested in web developer, web security and cloud computing
 
