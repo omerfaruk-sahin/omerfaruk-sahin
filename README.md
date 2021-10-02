@@ -43,5 +43,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/%C3%B6merfaruk%C5%9Fahin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ömerfarukşahin-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:omer.fs@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-omer.fs@hotmail.com-blue?style=flat-square&logo=hotmail"></a>
-  <a href="https://www.hackerrank.com/omer_fs"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-omer"_"fs-blue?style=flat-square&logo=HackerRank"></a>
+  <a href="https://www.hackerrank.com/omer_fs"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-omer(_)fs-blue?style=flat-square&logo=HackerRank"></a>
 </p>
