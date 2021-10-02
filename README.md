@@ -12,7 +12,7 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - 🌐 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-  ![NodeJS](https://img.shields.io/badge/-Node js-333333?style=flat&logo=node.js)
+  ![NodeJS](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
