@@ -18,9 +18,9 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
  - ☁️ &nbsp;
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
   ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalOcean)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
