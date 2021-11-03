@@ -19,6 +19,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
  - ☁️ &nbsp;
+  ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=google-cloud)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
   ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalOcean)
 - ⚙️ &nbsp;
