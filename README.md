@@ -20,7 +20,6 @@
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
  - ☁️ &nbsp;
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure-devops)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalOcean)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
